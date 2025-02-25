@@ -17,8 +17,8 @@ Meu objetivo pessoal é terminar minha faculdade de ciências jurídicas e inici
 | Skill                                         | Projeto Associado        |
 |-----------------------------------------------|----------------------------|
 | SIEM SPLUNK implementação e LOG analysis                     | Utilização do SPLUNK entreprise Free|
-| Entendimento e criando campanha de phishing          | <a href="https://iagocerqueira.github.io/PishingProject/">Detection Lab</a>|
-| Criação de um laborátório com OPNSENSE Firewall(Oracle VMBOX)    |  <a href="https://iagocerqueira.github.io/SOC-Lab/">Detection Lab</a>|
+| Entendimento e criando campanha de phishing          | <a href="https://iagocerqueira.github.io/PishingProject/">Link</a>|
+| Criação de um laborátório com OPNSENSE Firewall(Oracle VMBOX)    |  <a href="https://iagocerqueira.github.io/SOC-Lab/">Link</a>|
 
 
 
