@@ -29,6 +29,8 @@ Meu objetivo pessoal é terminar minha faculdade de ciências jurídicas e inici
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-0040FF?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-OneTrust-52B848?&style=for-the-badge&logo=OneTrust&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NIST-DC143C?&style=for-the-badge&logo=NIST&logoColor=white" />
+
 </div>
 
 
@@ -41,26 +43,29 @@ Meu objetivo pessoal é terminar minha faculdade de ciências jurídicas e inici
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-McAfee%20Endpoint%20Security-C8102E?&style=for-the-badge&logo=McAfee&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kaspersky%20Endpoint%20Security-007575?&style=for-the-badge&logo=Kaspersky&logoColor=white" />
 </div>
+
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IBM%20QRadar-054ADA?&style=for-the-badge&logo=IBM&logoColor=white" />
 </div>
 
+
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NSE%201-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NSE%202-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NSE%203-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISO%2027001%20SGSI-005FAD?&style=for-the-badge&logo=ISO&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LGPD%20(FGV)-007ACC?&style=for-the-badge&logo=gov.br&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LFS101%20Linux%20Foundation-1793D1?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
+
 
 ## Projects
 - Detection Lab
