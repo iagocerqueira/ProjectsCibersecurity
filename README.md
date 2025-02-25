@@ -71,7 +71,7 @@ Meu objetivo pessoal é terminar minha faculdade de ciências jurídicas e inici
 </div>
 
 
-## Projects
+## Projetos
 - Criação de laborátorio no oracle VMBox utilizando OPNSENSE, Kali linux, windows server para geração de Logs de proteção de rede com zabbix e Suricata 
 - Utilização do Gophish para entender como funciona o email phishing e a criar uma campanha de conscientização
 
