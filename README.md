@@ -69,6 +69,15 @@ Meu objetivo pessoal é terminar minha faculdade de ciências jurídicas e inici
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
 </div>
 
+### Office
+
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Excel-217346?&style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=Power-BI&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Word-2B579A?&style=for-the-badge&logo=Microsoft-Word&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A?&style=for-the-badge&logo=Microsoft-PowerPoint&logoColor=white" />
+</div>
+
 
 
 ### SIEM
