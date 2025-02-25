@@ -38,6 +38,10 @@ Meu objetivo pessoal é terminar minha faculdade de ciências jurídicas e inici
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-OPNsense-F1680D?&style=for-the-badge&logo=OPNsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zabbix-F05032?&style=for-the-badge&logo=Zabbix&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+</div>
+
 </div>
 
 
@@ -68,5 +72,6 @@ Meu objetivo pessoal é terminar minha faculdade de ciências jurídicas e inici
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Criação de laborátorio no oracle VMBox utilizando OPNSENSE, Kali linux, windows server para geração de Logs de proteção de rede com zabbix e Suricata 
+- Utilização do Gophish para entender como funciona o email phishing e a criar uma campanha de conscientização
+
