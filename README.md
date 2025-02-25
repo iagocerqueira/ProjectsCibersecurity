@@ -1,4 +1,4 @@
-# ProjectsCibersecurity
+# Sobre Mim
 # Olá, sou Iago Cerqueira dos Reis
 <a href="https://www.linkedin.com/in/iago-cerqueira-7a9a0b204/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -30,11 +30,11 @@ Meu objetivo pessoal é terminar minha faculdade de ciências jurídicas e inici
     <img src="https://img.shields.io/badge/-Nmap-0040FF?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-OneTrust-52B848?&style=for-the-badge&logo=OneTrust&logoColor=white" />
     <img src="https://img.shields.io/badge/-NIST-DC143C?&style=for-the-badge&logo=NIST&logoColor=white" />
-
 </div>
 
 
 ### Network
+
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-OPNsense-F1680D?&style=for-the-badge&logo=OPNsense&logoColor=white" />
@@ -45,13 +45,34 @@ Meu objetivo pessoal é terminar minha faculdade de ciências jurídicas e inici
 
 
 ### Endpoint
+
 <div>
     <img src="https://img.shields.io/badge/-McAfee%20Endpoint%20Security-C8102E?&style=for-the-badge&logo=McAfee&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kaspersky%20Endpoint%20Security-007575?&style=for-the-badge&logo=Kaspersky&logoColor=white" />
 </div>
 
+### Automação/Programação
+
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNUBash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+</div>
+
+### Sistemas Operacionais
+
+<div>
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%20Server-0A78D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+</div>
+
+
 
 ### SIEM
+
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-IBM%20QRadar-054ADA?&style=for-the-badge&logo=IBM&logoColor=white" />
