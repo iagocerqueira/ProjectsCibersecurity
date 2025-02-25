@@ -18,7 +18,7 @@ Meu objetivo pessoal é terminar minha faculdade de ciências jurídicas e inici
 |-----------------------------------------------|----------------------------|
 | SIEM SPLUNK implementação e LOG analysis                     | Utilização do SPLUNK entreprise Free|
 | Entendimento e criando campanha de phishing          | Utilização do Gophish|
-| Criação de um laborátório com OPNSENSE Firewall(Oracle VMBOX)    | SOC Automation Lab|
+| Criação de um laborátório com OPNSENSE Firewall(Oracle VMBOX)    |  <a href="https://github.com/iagocerqueira/SOC-Lab">Detection Lab</a>|
 
 
 
