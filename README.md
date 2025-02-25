@@ -14,10 +14,10 @@ Meu objetivo pessoal é terminar minha faculdade de ciências jurídicas e inici
 ## Skills
 
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Projeto Associado        |
 |-----------------------------------------------|----------------------------|
-| SIEM SPLUNK implementação e LOG analysis                     | <a href="https://google.com">Detection Lab</a>|
-| Entendendo e criando campanha de phishing (GoPhish)          | <a href="https://google.com">Detection Lab</a>|
+| SIEM SPLUNK implementação e LOG analysis                     | Utilização do SPLUNK entreprise Free|
+| Entendimento e criando campanha de phishing          | Utilização do Gophish|
 | Criação de um laborátório com OPNSENSE Firewall(Oracle VMBOX)    | SOC Automation Lab|
 
 
