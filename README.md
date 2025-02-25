@@ -42,7 +42,6 @@ Meu objetivo pessoal é terminar minha faculdade de ciências jurídicas e inici
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
-</div>
 
 
 ### Endpoint
