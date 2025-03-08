@@ -30,6 +30,9 @@ Meu objetivo pessoal é terminar minha faculdade de ciências jurídicas e inici
     <img src="https://img.shields.io/badge/-Nmap-0040FF?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-OneTrust-52B848?&style=for-the-badge&logo=OneTrust&logoColor=white" />
     <img src="https://img.shields.io/badge/-NIST-DC143C?&style=for-the-badge&logo=NIST&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Feroxbuster-5E2D89?style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burp%20Suite-FF7139?style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+
 </div>
 
 
